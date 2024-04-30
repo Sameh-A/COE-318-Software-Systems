@@ -14,7 +14,7 @@ public class Resistor {
 
     /**
      * Create an ideal Resistor. The initial current through and voltage across
-     * the Resistor are zero.
+     * the Resistors are zero.
      *
      * @param resistance resistance in Ohms
      */
