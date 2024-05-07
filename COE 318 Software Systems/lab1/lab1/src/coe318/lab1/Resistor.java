@@ -8,7 +8,7 @@ package coe318.lab1;
 public class Resistor {
     //Instance (state) variables  
     //TODO Add instance variables (Hint: you only need 2!)
-   private double  r;//resistance
+   private double  r;//resistances
    private double v;//voltage
    // current variable not needed!
 
