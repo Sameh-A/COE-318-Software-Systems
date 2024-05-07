@@ -10,7 +10,7 @@ public class Resistor {
     //TODO Add instance variables (Hint: you only need 2!)
    private double  r;//resistance
    private double v;//voltage
-   // current variable not needed
+   // current variable not needed!
 
     /**
      * Create an ideal Resistor. The initial current through and voltage across
